@@ -16,4 +16,22 @@ This project performs a comprehensive analysis of Swiggy's order data to uncover
 - **Reporting:** Exported comprehensive analysis to PDF
 
 ## 📊 Visualizations
-*Insert your screenshots here to showcase the charts!*
+## 📊 Visualizations
+
+### 1. Monthly Revenue Trend
+![Monthly Sales](images/Screenshot%202026-02-21%20034946.png)
+
+### 2. Daily Sales Trend
+![Daily Sales](images/Screenshot%202026-02-21%20035004.png)
+
+### 3. Veg vs Non-Veg Distribution
+![Donut Chart](images/Screenshot%202026-02-21%20035015.png)
+
+### 4. Revenue by State
+![State Revenue](images/Screenshot%202026-02-21%20035026.png)
+
+### 5. Top 5 Cities by Sales
+![Top Cities](images/Screenshot%202026-02-21%20035038.png)
+
+### 6. Weekly Growth Monitoring
+![Weekly Trend](images/Screenshot%202026-02-21%20035048.png)
